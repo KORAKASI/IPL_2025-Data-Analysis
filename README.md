@@ -49,6 +49,7 @@ Match Phases (Powerplay, Middle, Death)
 Univariate, Bivariate, Multivariate analysis
 Correlation analysis between variables
 Phase-wise performance evaluation
+
 - **Key Insights**
 
 - Batting Dominance
@@ -59,17 +60,21 @@ Batting performance is the primary driver of match outcomes
 
 Middle Overs (7–15) contribute the highest runs
 Most wickets also fall in middle overs → critical phase
+
 - Scoring Patterns
 
 Majority of deliveries yield 0–2 runs
 Boundaries are less frequent but high impact
+
 - Team Performance
 
 Punjab Kings leads in total runs and scoring efficiency
 Mumbai Indians and Gujarat Titans show consistent performance
+
 - Toss Impact
-- 
+
 Toss advantage is not a strong determinant of match outcomes
+
 - Visualizations
   
 Distribution of runs per ball
@@ -77,11 +82,13 @@ Stadium-wise match distribution
 Phase-wise analysis (Powerplay, Middle, Death)
 Correlation heatmaps
 Team performance comparisons
+
 - Limitations
   
 Some match data not available during scraping
 Dependent on external website structure (ESPN Cricinfo)
 Analysis is descriptive (no predictive modeling)
+
 ## Future Enhancements
 Build predictive models (match outcome, player performance)
 Develop interactive dashboards (Power BI / Tableau)
