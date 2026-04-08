@@ -91,6 +91,9 @@ Analysis is descriptive (no predictive modeling)
 
 ## Future Enhancements
 Build predictive models (match outcome, player performance)
+
 Develop interactive dashboards (Power BI / Tableau)
+
 Deploy as a web app (Streamlit)
+
 Automate real-time data pipeline
